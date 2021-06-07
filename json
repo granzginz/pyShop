@@ -4,8 +4,8 @@
     "attributes": {
       "name": "leo",
       "email": "leo@leog.in",
-      "is_active": "true"
-      "role":"admin",
+      "is_active": "true",
+      "role":"admin"
      
       }
      }
