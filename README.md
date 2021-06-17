@@ -1,3 +1,6 @@
+[![CodeQL](https://github.com/granzginz/pyShop/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/granzginz/pyShop/actions/workflows/codeql-analysis.yml)
+[![Python package](https://github.com/granzginz/pyShop/actions/workflows/python-package.yml/badge.svg)](https://github.com/granzginz/pyShop/actions/workflows/python-package.yml)
+
 persi 0.0.0.0.0.0.0.0.0.0.0.0.0.0.1 pake banget
 ### Tutorial and explanation at
 ?????? :)
@@ -20,4 +23,3 @@ DEPREKATED
 
 - GET	http://localhost:5000/api/v1/users/\<user_id\>.json	Returns user details for the given user id if the it exists
 
-KITA BUAT YANG BALUUUUUUUU :D
